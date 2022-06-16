@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 </a>
 <!--repository card-->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davon09&repo=cim" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davon09&layout=compact" />
 </a>
+
+
 
 ![](https://raw.githubusercontent.com/Davon09/Davon09/main/assets/github-contribution-grid-snake.svg)
