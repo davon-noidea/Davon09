@@ -12,15 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--statistical card-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davon09&show_icons=true&count_private=true&theme=buefy" />
-</a>
-<!--repository card-->
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davon09&layout=compact" />
-</a>
-
-
 
 ![](https://raw.githubusercontent.com/Davon09/Davon09/main/assets/github-contribution-grid-snake.svg)
+<!--statistical card-->
+<!-- <a href="https://github.com/Davon09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davon09&show_icons=true&count_private=true&theme=buefy" />
+</a> -->
+<!--repository card-->
+<!-- <a href="https://github.com/Davon09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davon09&layout=compact" />
+</a> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davon09&show_icons=true&count_private=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davon09&layout=compact)]
+
