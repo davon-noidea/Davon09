@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 </a> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davon09&show_icons=true&count_private=true&theme=buefy)
+### My top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davon09&layout=compact)
 
